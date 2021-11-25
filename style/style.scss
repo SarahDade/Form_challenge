@@ -1,0 +1,135 @@
+@font-face {
+    font-family: "DrukCyr-Heavy";
+    src: url('DrukCyr-Heavy.ttf') format('truetype');
+}
+
+@media screen and (max-width: 992px) {
+    .right-screen {
+      display: none;
+    }
+    h1 {
+        font-size: 55px !important;
+        padding-left: 150px !important;
+    }
+    footer {
+    padding-left: 150px;
+    padding-top: 5px;
+    text-align: center;
+
+        img {
+        width:30px;
+        height: 30px;
+        }
+
+        .icons {
+        display: flex;
+        justify-content: center;
+        }
+    }
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+
+.left-screen {
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+
+.right-screen {
+    width: 50%;
+    height: 133vh;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+li {
+    padding-top: 50px;
+}
+
+
+ul,
+li {
+    list-style: none;
+}
+
+h1 {
+    font-family: "DrukCyr-Heavy";
+    font-size: 85px;
+    padding-top: 5vh;
+}
+
+.form {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 70%;
+}
+
+#checkBox {
+    display: flex;
+}
+
+.form-check {
+    display: inline-block;
+    margin-left: 7px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#submit {
+    margin-top: 20px;
+    background-color: white;
+    font-family: "DrukCyr-Heavy";
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    border-color: #C4BFBF;
+}
+
+#send {
+    width: 80px;
+    height: 40px;
+    padding-left: 35%;
+}
+
+#subject {
+    margin-bottom: 20px;
+}
+
+#message {
+    margin-bottom: 20px;
+}
+
+footer {
+    padding-top: 40px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    // font-size: 20px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+
+    &.github {
+        margin-right: 10px;
+    }
+
+}
+
+
