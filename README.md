@@ -1,11 +1,10 @@
 # form_challenge
 
 ![Alt text](./assets/php.svg)
-<img src="./assets/php.svg">
   
 ## About  the project
 
-The main purpose of the project was setting up a form that allow potential recruiters to contact me by using PHPMAILER.
+The main purpose was to set up a form that allow potential recruiters to contact me by using PHPMAILER.
 
 ![image info](./assets/caption-FORM.png)
 
