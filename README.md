@@ -4,7 +4,7 @@
   
 ## About  the project
 
-The main purpose was to set up a form that allow potential recruiters to contact me by using PHPMAILER.
+The main purpose was to set up a form that allow potential recruiters to contact me by using PHPMailer
 
 ![image info](./assets/caption-FORM.png)
 
