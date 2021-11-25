@@ -8,7 +8,7 @@ The main purpose was to set up a form that allow potential recruiters to contact
 
 ![image info](./assets/caption-FORM.png)
 
-**link:** [Form_challenge](https://sarah-dade.dev/).
+**link:** [Form_challenge](https://sarah-dade.dev/)
 
 ##  objectives  
 
@@ -25,7 +25,6 @@ The main purpose was to set up a form that allow potential recruiters to contact
 ---  
   
 ##  work organization  
-
 
    To achieve thoses objectives, i first drew few mock-up with Adobe XD, which gave me an overlook of the design structure.
    Then i did some code in Html / Sass to launch the Webpage, afterwards i wrote the PHP code to get the entered informations.
