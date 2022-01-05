@@ -24,9 +24,9 @@ Contact form
  ## Technologies
   This project is created with:
 
-PHP version 7.4.9
-PHP Mailer 
-HTML 5
-CSS 3
+* PHP version 7.4.9
+* PHP Mailer 
+* HTML 5
+* CSS 3
 
          
